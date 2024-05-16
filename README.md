@@ -6,4 +6,4 @@ A aplicação inclui uma página inicial que exibe meu nome e uma imagem de perf
 
 Fique à vontade para explorar o código-fonte e contribuir com melhorias!
 
-Autor: Camile Stefany - GitHub: [camsste](https://github.com/camsste) - Linkedin: [Camile Stefany](https://www.linkedin.com/in/devcamilestefany/)
+Minhas redes sociais: GitHub: [camsste](https://github.com/camsste) - Linkedin: [Camile Stefany](https://www.linkedin.com/in/devcamilestefany/)
